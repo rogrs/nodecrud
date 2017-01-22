@@ -2,12 +2,12 @@
 Projeto de Crud utilizando node.js e My SQL
 
 
-## Installation
-*for newbies : Clone or download zip to your machine then hit this :
+## Instalação
+*Baixe ou clone o projeto do repositorio, depois execute o comando abaixo :
 
 	npm install
 
-## Configuration (database)
+## Configuração (database)
 Para configurar o banco de dados  edite o arquivo app.js
 
         host: 'localhost',
@@ -17,4 +17,10 @@ Para configurar o banco de dados  edite o arquivo app.js
         database:'nodejs'	
 
 
-You're gonna need to create a DB named 'nodejs' and import data.sql
+Crie o banco de dados  com o nome de 'nodejs' e  importe o script data.sql
+
+
+
+## Para executar aplicação 
+        
+        node app.js
