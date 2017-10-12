@@ -1,8 +1,7 @@
-# nodecrud
-Projeto de Crud utilizando node.js e My SQL
+# nodecrud [![Build Status](https://travis-ci.org/rogrs/nodecrud.svg?branch=master)](https://travis-ci.org/rogrs/nodecrud) [![Dependency Status](https://david-dm.org/rogrs/nodecrud.svg)](https://david-dm.org/rogrs/nodecrud) [![devDependency Status](https://david-dm.org/rogrs/nodecrud/dev-status.svg)](https://david-dm.org/rogrs/nodecrud#info=devDependencies) [![peerDependency Status](https://david-dm.org/rogrs/nodecrud/peer-status.svg)](https://david-dm.org/rogrs/nodecrud#info=peerDependencies)
 
-https://david-dm.org/rogrs/nodecrud.svg
-[![Build Status](https://travis-ci.org/rogrs/nodecrud.svg?branch=master)](https://travis-ci.org/rogrs/nodecrud) [![Dependency Status](https://david-dm.org/rogrs/nodecrud.svg)](https://david-dm.org/rogrs/nodecrud) [![devDependency Status](https://david-dm.org/rogrs/nodecrud/dev-status.svg)](https://david-dm.org/rogrs/nodecrud#info=devDependencies) [![peerDependency Status](https://david-dm.org/rogrs/nodecrud/peer-status.svg)](https://david-dm.org/rogrs/nodecrud#info=peerDependencies)
+> Projeto de Crud utilizando node.js e My SQL.
+
 
 
 ## Instalação
